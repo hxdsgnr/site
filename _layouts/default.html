@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="google-site-verification" content="ejJNXDoeMCtfV_9yYarwmNJ4RF32CeaCC-xCBNTr0wE" />
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" href="{{ "assets/images/profile-photo.jpg" | relative_url }}">
+    <link href="{{ "assets/css/style.css" | relative_url }}" rel="stylesheet" type="text/css">
+    <link href="{{ "assets/css/icons.css" | relative_url }}" rel="stylesheet" type="text/css">
+    {% seo %}
+</head>
+<body class="bm-page-slug-app anonym" cz-shortcut-listen="true">
+<div class="bm-init">
+    <div class="bm-page-init">
+        <div class="theme theme-main">
+            <div class="theme-main">
+                <div class="theme-main-inner">
+                    <div onclick="">
+                      <div class="border"></div>
+                      <img src="{{ "assets/images/profile-photo.jpg" | relative_url }}" alt="Luis Parra's Photo">
+                    </div>
+                    {% include icons.html %}
+                </div>
+            </div>
+            <div class="theme-content light-mode">
+                <div class="theme-content-menu">
+                    <div class="theme-element-menu-content">
+                        <div class="theme-element-menu-content-inner">
+                            <span class="theme-element-menu-content-inner-items">
+                                <a href="{{ "index.html" | relative_url }}" data-id="1661" class="theme-element-menu-item">About</a>
+                                <a href="{{ "work.html" | relative_url }}" data-id="1661" class="theme-element-menu-item">Work</a>
+                                <a href="{{ "career.html" | relative_url }}" data-id="1662" class="theme-element-menu-item">Career</a>
+                                <a href="{{ "contact.html" | relative_url }}" data-id="1663" class="theme-element-menu-item">Contact</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="theme-content-inner">
+                    <div class="theme-main-txt" data-html="true">
+                        <span class="theme-element-page theme-element-content" data-key="text_2">
+                            {{ content }}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
