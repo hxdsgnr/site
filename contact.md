@@ -47,7 +47,7 @@ canonical_url: "https://luisparradev.github.io/site/contact.html"
 
 <h4>Highly</h4>
 
-<p>Here I have a collection of highlights on design research. When I don’t read news or articles, I read a research paper and then publish relevant highlights on Twitter and a summary on LinkedIn. I seek to read at least one article or paper per day.
+<p>When I don’t read news or articles, I read a research paper. I save relevant highlights on Highly, share them on Twitter, and then publish a summary on LinkedIn. I seek to read at least one article or paper per day.
 </p>
 
 <h4>Medium</h4>
