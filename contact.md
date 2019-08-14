@@ -23,7 +23,7 @@ canonical_url: "https://luisparradev.github.io/site/contact.html"
 
 <h3>Contact</h3>
 
-<p>You can write to me at <a id="email-link" href="mailto:luisparramail@gmail.com" target="_top">luisparramail@gmail.com</a>. Or through social media, you can send me a direct message and share ideas with me.
+<p>You may write to me at <a id="email-link" href="mailto:luisparramail@gmail.com" target="_top">luisparramail@gmail.com</a>. Or through social media, you may send me a direct message and share ideas with me.
 </p>
 
 <p>I found social media as a tool to come up with ideas and learn. I like listening to others, and sharing my  learnings helps me maintain a habit of reading.
