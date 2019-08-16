@@ -5,14 +5,15 @@ image: assets/images/profile-photo.jpg
 type: Person
 links:
 - https://behance.net/luisparrawork
+- https://codepen.io/luisparracode
 - https://dribbble.com/luisparraworkshot
 - https://facebook.com/luisparramessage
 - https://flipboard.com/@luisparramag
 - https://github.com/luisparradev
 - https://highly.co/by/luisparrahighlight
-- https://instagram.com/luisparrapic/
+- https://instagram.com/luisparrapic
 - https://issuu.com/luisparrapublication
-- https://linkedin.com/in/luisparrapro/
+- https://linkedin.com/in/luisparrapro
 - https://medium.com/@luisparrastory
 - https://pinterest.com/luisparraboard
 - https://luisparraworkspace.slack.com
@@ -37,7 +38,7 @@ canonical_url: "https://luisparradev.github.io/site/contact.html"
 
 <h4>CodePen</h4>
 
-<p>I’m learning new things about HTML and CSS. On CodePen, every Saturday I take a good <em>pen</em> of code from a programmer, analyze it and find ways to improve or merge it with something else.
+<p> I write a <em>pen</em> of code each Saturday. They are <em>CodePen Challenges</em> that help me practice and gain coding skill.
 </p>
 
 <h4>Flipboard</h4>

@@ -5,14 +5,15 @@ image: assets/images/profile-photo.jpg
 type: Person
 links:
 - https://behance.net/luisparrawork
+- https://codepen.io/luisparracode
 - https://dribbble.com/luisparraworkshot
 - https://facebook.com/luisparramessage
 - https://flipboard.com/@luisparramag
 - https://github.com/luisparradev
 - https://highly.co/by/luisparrahighlight
-- https://instagram.com/luisparrapic/
+- https://instagram.com/luisparrapic
 - https://issuu.com/luisparrapublication
-- https://linkedin.com/in/luisparrapro/
+- https://linkedin.com/in/luisparrapro
 - https://medium.com/@luisparrastory
 - https://pinterest.com/luisparraboard
 - https://luisparraworkspace.slack.com
@@ -21,7 +22,7 @@ permalink: /about
 canonical_url: "https://luisparradev.github.io/site/index.html"
 ---
 
-<h2>Hello!👋😀 I’m Luis Felipe</h2>
+<h2>Hello!👋😀 I’m Luis Parra</h2>
 
 <p>Thank you for being here :)</p>
 

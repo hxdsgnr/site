@@ -5,14 +5,15 @@ image: assets/images/profile-photo.jpg
 type: Person
 links:
 - https://behance.net/luisparrawork
+- https://codepen.io/luisparracode
 - https://dribbble.com/luisparraworkshot
 - https://facebook.com/luisparramessage
 - https://flipboard.com/@luisparramag
 - https://github.com/luisparradev
 - https://highly.co/by/luisparrahighlight
-- https://instagram.com/luisparrapic/
+- https://instagram.com/luisparrapic
 - https://issuu.com/luisparrapublication
-- https://linkedin.com/in/luisparrapro/
+- https://linkedin.com/in/luisparrapro
 - https://medium.com/@luisparrastory
 - https://pinterest.com/luisparraboard
 - https://luisparraworkspace.slack.com
@@ -23,7 +24,7 @@ canonical_url: "https://luisparradev.github.io/site/work.html"
 
 <h3>Work</h3>
 
-<p>I’m building my portfolio through several web platforms to classify it by type of project, and because I’m still learning how to code a whole dynamic website.
+<p>I’m building my portfolio through several web platforms to classify it by type of project, and because I’m learning how to code a whole dynamic website.
 </p>
 
 <p>On Behance, I have added projects on graphic and product design. I take advantage of its infographic format to give details about the process.
