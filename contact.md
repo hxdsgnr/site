@@ -43,12 +43,12 @@ canonical_url: "https://luisparradev.github.io/site/contact.html"
 
 <h4>Flipboard</h4>
 
-<p>I have a weekly magazine on Flipboard. Each magazine is a collection of interesting design news and articles that I commented on Twitter.
+<p>On Flipboard, I have a weekly magazine. Each one is a collection of interesting design news and articles that I commented on Twitter.
 </p>
 
 <h4>Highly</h4>
 
-<p>When I don’t read news or articles, I read a research paper. I save relevant highlights on Highly, share them on Twitter, and then publish a summary on LinkedIn. I seek to read at least one article or paper per day.
+<p>I read a research paper when I don’t read news or articles. I save relevant highlights on Highly, share them on Twitter, and then publish a summary on LinkedIn. I seek to read at least one article or paper per day.
 </p>
 
 <h4>Medium</h4>
