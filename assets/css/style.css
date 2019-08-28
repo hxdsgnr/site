@@ -10,7 +10,8 @@
 }
 
 ::selection {
-  background-color: #A7C8F2
+  color: #FFFFFF;
+  background-color: #000380
 }
 
 @font-face {
