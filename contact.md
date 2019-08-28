@@ -38,7 +38,7 @@ canonical_url: "https://luisparradev.github.io/site/contact.html"
 
 <h4>CodePen</h4>
 
-<p> I write a <em>pen</em> of code each Saturday. They are <em>CodePen Challenges</em> that help me practice and gain coding skill.
+<p> I write a <em>pen</em> of code each Saturday. It is a CodePen Challenge that help me practice and gain coding skill.
 </p>
 
 <h4>Flipboard</h4>
