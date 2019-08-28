@@ -53,12 +53,12 @@ a { /* Links Style */
 
 #email-link {
   text-decoration: none;
-  color: #000380
+  color: #0004BF
 }
 
 #email-link:hover {
   text-decoration: underline;
-  color: #000380
+  color: #0004BF
 }
 
 h1,
@@ -250,7 +250,7 @@ RESPONSIVE FORMAT
     }
     img { /* Photo */
         Margin: 40px auto 60px auto;
-        border: 5px solid #000380 /* Border */
+        border: 5px solid #0004BF /* Border */
     }
     .border { /* Photo Background */
       display: none
