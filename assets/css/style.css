@@ -11,7 +11,7 @@
 
 ::selection {
   color: #FFFFFF;
-  background-color: #0004BF
+  background-color: #1034A6
 }
 
 @font-face {
@@ -53,12 +53,12 @@ a { /* Links Style */
 
 #email-link {
   text-decoration: none;
-  color: #0004BF
+  color: #1034A6
 }
 
 #email-link:hover {
   text-decoration: underline;
-  color: #0004BF
+  color: #1034A6
 }
 
 h1,
