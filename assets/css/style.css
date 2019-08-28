@@ -121,7 +121,7 @@ img { /* Photo */
     height: 220px;
     width: 220px;
     border-radius: 20%;
-    border: 1px solid #0004BF /* Border */
+    border: 1px solid #1034A6 /* Border */
 }
 
 .border { /* Photo Background */
@@ -131,7 +131,7 @@ img { /* Photo */
   height: 220px;
   width: 220px;
   border-radius: 20%;
-  background: #0004BF;
+  background: #1034A6;
   transform: rotate(25deg)
 }
 
@@ -250,7 +250,7 @@ RESPONSIVE FORMAT
     }
     img { /* Photo */
         Margin: 40px auto 60px auto;
-        border: 5px solid #0004BF /* Border */
+        border: 5px solid #1034A6 /* Border */
     }
     .border { /* Photo Background */
       display: none
