@@ -11,7 +11,7 @@
 
 ::selection {
   color: #FFFFFF;
-  background-color: #000380
+  background-color: #0004BF
 }
 
 @font-face {
@@ -176,7 +176,7 @@ i:hover {
 }
 
 .theme .theme-content .theme-content-menu .theme-element-menu-item { /* Font */
-    font-weight: 600;
+    font-weight: 400;
     margin: 0 15px;
     color: #000000
 }
