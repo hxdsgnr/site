@@ -36,7 +36,7 @@ canonical_url: "https://luisparradev.github.io/site/work.html"
 <p>On Issuu, I’ve uploaded some procedure manuals that we’ve developed at Design Studio, the class on design thinking.
 </p>
 
-<p>On Wix, I made a site dedicated to design thinking projects. I wanted to put more emphasis on the process than the outcome.
+<p>On Wix, I made a site dedicated to case studies of design thinking projects. I wanted to put more emphasis on the process than the outcome.
 </p>
 
 <p>Most of the projects are projects developed at college, and there are others that I’ve done in my free time. For example, on Instagram, I’m working on a new idea that emerged from a piece of advice from Michael Bierut. He wrote in one of his books that doing a lot of posters is a way to do great design work, so I came out with a funny idea to do that. I’m re-designing music album covers by re-interpreting stories behind songs.
