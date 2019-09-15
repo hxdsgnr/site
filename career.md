@@ -30,7 +30,7 @@ canonical_url: "https://luisparradev.github.io/site/career.html"
 <p>I started my design career at Universidad de Los Andes in 2016, and the last year I was granted a scholarship for an exchange at Politecnico di Milano. I will be studying from September 2019 to February 2020 courses of MSc. in Design della Comunicazione at PoliMi.
 </p>
 
-<p>My goal now is to get an internship for 2020 and then go back to Uniandes to make my thesis project. I’m very excited about the idea of an internship in California or New York. It would be the very best first step in my professional career. If you can give me a chance, please go to Contact in the menu bar 😊
+<p>My goal now is to get an internship for 2020 and then go back to Uniandes to make my thesis project. I’m very excited about the idea of an internship in Milan. It would be a great first step in my professional career. If you can give me a chance, please go to Contact in the menu bar 😊
 </p>
 
 <p>By the way, I have more information about my scholar background on my LinkedIn profile, such as my skills and courses of design that I’ve taken at college. Furthermore, you should know that, as a professional, I’ve set a concept for my personality: I’m clean, modern, vigorous, perfectionist, passionate, cool, natural, and kind. I’m a dreamer but realistic, concrete, and effective with my time. And, I’m not sure if it will be the same when talking in English, but at heart, I’m learning to be a good leader.
